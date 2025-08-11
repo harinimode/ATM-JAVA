@@ -19,11 +19,11 @@ Scanner Class for user input
 
 📂 File Structure
 ATM-Java/
-│── atm.java   # Main ATM class containing program logic
+│── atm.java   # Main ATM class containing program logic 
 │── README.md  # Project documentation
 ▶️ How to Run
 1. Clone the repository:
-  git clone https://github.com/harinimode/ATM-Java.git
+  git clone https://github.com/harinimode/ATM-Java.git then 
   cd ATM-Java
 3. Compile the program:
   javac atm.java
