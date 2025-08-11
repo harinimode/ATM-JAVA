@@ -23,7 +23,7 @@ ATM-Java/
 │── README.md  # Project documentation
 ▶️ How to Run
 1. Clone the repository:
-  git clone https://github.com/harinimode/java.git
+  git clone https://github.com/harinimode/ATM-Java.git
   cd ATM-Java
 3. Compile the program:
   javac atm.java
